@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"hiro-battle","characterIndex":0,"characterName":"hiro-walk","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"hiro-sly","traits":[],"initialLevel":5,"maxLevel":99,"name":"Hiro","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"hiro-battle","characterIndex":0,"characterName":"hiro-walk","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"hiro-sly","traits":[],"initialLevel":5,"maxLevel":99,"name":"Hiro","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"princess-battle","characterIndex":0,"characterName":"princess-walk","classId":4,"equips":[4,0,0,3,0],"faceIndex":0,"faceName":"princess-sly","traits":[],"initialLevel":5,"maxLevel":99,"name":"Princesa","nickname":"","note":"","profile":""}
 ]
