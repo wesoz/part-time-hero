@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Throne room","order":1,"parentId":0,"scrollX":819,"scrollY":481.5},
-{"id":2,"expanded":false,"name":"World Map","order":2,"parentId":1,"scrollX":819,"scrollY":481.5}
+{"id":1,"expanded":true,"name":"Throne room","order":2,"parentId":2,"scrollX":819,"scrollY":481.5},
+{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":819,"scrollY":481.5},
+{"id":3,"expanded":false,"name":"Tyco lair","order":3,"parentId":2,"scrollX":819,"scrollY":481.5}
 ]
